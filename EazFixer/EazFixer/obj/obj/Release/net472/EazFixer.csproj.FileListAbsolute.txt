@@ -1,0 +1,13 @@
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\bin\Release\net472\EazFixer.exe.config
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\bin\Release\net472\EazFixer.exe
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\bin\Release\net472\EazFixer.pdb
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\bin\Release\net472\CommandLine.dll
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\bin\Release\net472\dnlib.dll
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\bin\Release\net472\0Harmony.dll
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\obj\Release\net472\EazFixer.AssemblyInfoInputs.cache
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\obj\Release\net472\EazFixer.AssemblyInfo.cs
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\obj\Release\net472\EazFixer.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\obj\Release\net472\EazFixer.csproj.CopyComplete
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\obj\Release\net472\EazFixer.exe
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\obj\Release\net472\EazFixer.pdb
+C:\Users\IEUser\Desktop\EazFixer\EazFixer\obj\Release\net472\EazFixer.csproj.AssemblyReference.cache
