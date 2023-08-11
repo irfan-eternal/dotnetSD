@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <Copyright>Copyright © HoLLy</Copyright>
+    <TargetFrameworks>net472;netcoreapp3.1</TargetFrameworks>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.8.0" />
+    <PackageReference Include="dnlib" Version="3.3.2" />
+    <PackageReference Include="Lib.Harmony" Version="2.0.2" />
+  </ItemGroup>
+</Project>
