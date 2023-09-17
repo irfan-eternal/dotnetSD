@@ -2,11 +2,11 @@
 
 This is a Fork of https://github.com/holly-hacker/EazFixer
 
-##Why I Created it 
+## Why I Created it 
 
 I Had Multiple Situations were EazFixer was not able to Correctly Identify the Encryption Function. So I added 2 Commandline Option which will tell the tool which is the Encryprion Function
 
-Usage
+## Usage
 
 Call from the command line
 ```
